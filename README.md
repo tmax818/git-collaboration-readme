@@ -225,8 +225,8 @@ Some might be wondering why we added the `-a` flag in the commit. Consider what
 previously. You then `mv`'d it. From `git`'s perspective you deleted
 `new-feature-file` and added `new-feature` but `git` doesn't know if your
 intent was to add another similarly named file and delete a file **OR** to
-rename a file.  To tell `git` that your want to bring changes in for `-a`ll
-currently tracked files, effectivecly to perform a rename, we add `-a`.
+rename a file.  To tell `git` that your want to bring changes in for all
+currently tracked files, effectively to perform a rename, we add `-a` (for all).
 
 Let's look at our timeline now.
 
