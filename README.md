@@ -175,8 +175,8 @@ log` and see what the intention of a feature was.
 `Git` is a complex tool, and these tools are just scratching the surface for
 collaborating with people. These workflows are just being introduced to
 you--and it may be challenging for the time being. You'll have lots of time to
-practice them and get used to what each command does. Don't try to cram it in
-all at once; instead just start to get an understanding of what is at your
+practice them and get used to what each command does. Don't try to cram it
+all in at once; instead just start to get an understanding of what is at your
 disposal.
 
 ![XKCD Git](http://imgs.xkcd.com/comics/git.png)
