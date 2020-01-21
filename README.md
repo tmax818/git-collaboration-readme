@@ -147,7 +147,7 @@ remote-name`.
 As a shorthand to `fetch` and then automatically merge the same-named branch
 from the _remote_ we can issue `git fetch remote-name branch-name-to-merge-in`.
 
-This are complex topics as it brings up the topic of how to reconcile lines of
+These are complex topics as it brings up the issue of how to reconcile lines of
 code where you and another developer might have changed the same thing. This is
 called a "merge conflict." We're not going to cover that topic here. Instead we
 want you to embrace working in branches, keeping `master` functional, and doing
@@ -175,7 +175,7 @@ log` and see what the intention of a feature was.
 `Git` is a complex tool, and these tools are just scratching the surface for
 collaborating with people. These workflows are just being introduced to
 you--and it may be challenging for the time being. You'll have lots of time to
-practice them and get used to what each command does. Don't try to cram it it
+practice them and get used to what each command does. Don't try to cram it
 all in at once; instead just start to get an understanding of what is at your
 disposal.
 
